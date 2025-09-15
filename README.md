@@ -1,12 +1,18 @@
 ## Hi there 👋
 
+I am a student at Washington and Lee University, majoring in mathematics and economics. 
+I’m currently learning software development for which I had to make a git profile. 
+Super excited to learn more about computer science! 
+
+
+
 <!--
 **siyarora17/siyarora17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning software development
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
