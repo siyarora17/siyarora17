@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I am a student at Washington and Lee University, majoring in mathematics and economics. 
-I’m currently learning software development for which I had to make a git profile. 
-Super excited to learn more about computer science! 
+Student at Washington and Lee University. 👯
+Mathematics, Economics, and Computer Science 🌱
+Super excited to learn more about computer science! 😄
 
 
 
