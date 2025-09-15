@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-Student at Washington and Lee University. 👯
+Student at Washington and Lee University 
+
 Mathematics, Economics, and Computer Science 🌱
+
 Super excited to learn more about computer science! 😄
 
 
